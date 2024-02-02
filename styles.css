@@ -1,7 +1,7 @@
 .holder{
 	display: grid;
 	width: 200px;
-	grid-template-columns: repeat(100px, 2);
+	grid-template-columns: repeat(2, 1fr);
 }
 .item{
 	border: 1px solid black;
