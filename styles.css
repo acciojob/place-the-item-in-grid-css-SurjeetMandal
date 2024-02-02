@@ -1,10 +1,10 @@
 .holder{
 	display: grid;
 	width: 200px;
-	grid-template-columns: repeat(1fr, 2);
+	grid-template-columns: repeat(100px, 2);
 }
 .item{
 	border: 1px solid black;
-	height: 5px;
+	height: 100px;
 	width: 100px;
 }
